@@ -1,4 +1,4 @@
-# Redshirt Assist Services Section
+# @causeway-services/public-redshirt-assist-services-section
 
 <!-- 561-group-standards:badges:start -->
 [![Causeway Services](https://img.shields.io/badge/561%20Group-Causeway%20Services-115e69)](https://github.com/causeway-services)
@@ -6,6 +6,8 @@
 [![Indigenous data: CARE](https://img.shields.io/badge/Indigenous%20data-CARE-4b6f44)](https://github.com/causeway-services/.github/blob/main/GOVERNANCE.md)
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
+
+Redshirt Assist at redshirt-assist.561.group: the Assist application for Target employees; the deployable Cloudflare Worker seat over the Assist engine, carrying no application logic of its own.
 
 The app seat of Redshirt Assist at `https://redshirt-assist.561.group`, the
 561 Group's Assist application for Target employees, beneath
