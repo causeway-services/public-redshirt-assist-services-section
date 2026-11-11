@@ -1,6 +1,6 @@
 {
   "name": "@causeway-services/redshirt-assist-services-section",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Redshirt Assist at redshirt-assist.561.group: the Assist application for Target employees; the deployable Cloudflare Worker seat over the Assist engine, carrying no application logic of its own.",
   "type": "module",
   "keywords": [
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/causeway-services/redshirt-assist-services-section.git"
+    "url": "git+https://github.com/causeway-services/public-redshirt-assist-services-section.git"
   },
   "license": "Apache-2.0",
   "funding": {
