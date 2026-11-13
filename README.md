@@ -25,7 +25,7 @@ deploy shape before it is built.
 ## What it is
 
 Redshirt Assist is one call of `createAssistWorker` from
-[Assist](../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/web-systems-engineering-services-section/services/web-tufte-gui-engineering-services-section/apps/assist/README.md)
+[Assist](../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/web-computer-systems-engineering-services-section/services/web-tufte-gui-engineering-services-section/apps/assist/README.md)
 over the Assist application record at
 `data/records/assist-application-service-record.json`, once its domain
 section (the package that will supply its login adapter and tool registry)
@@ -52,6 +52,6 @@ import of the engine's Worker handler. No application code is copied here.
 
 ## Specification
 
-See [The Assist application platform](../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/web-systems-engineering-services-section/services/web-tufte-gui-engineering-services-section/apps/assist/content/text/documents/articles/specifications/2026-09-11-assist-application-platform.md), the specification this
+See [The Assist application platform](../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/web-computer-systems-engineering-services-section/services/web-tufte-gui-engineering-services-section/apps/assist/content/text/documents/articles/specifications/2026-09-11-assist-application-platform.md), the specification this
 seat, EVE Assist, Alpaca Assist, and Gig Assist are each a parameterization
 of.
