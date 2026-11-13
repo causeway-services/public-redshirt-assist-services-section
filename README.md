@@ -46,7 +46,7 @@ import of the engine's Worker handler. No application code is copied here.
 - **Login provider.** Undecided: the Founder names the identity provider
   Target employees use.
 - **Domain section.** Undecided: a retail-work domain section beside
-  `personal-work-intelligence-systems-services-section` supplies the login
+  `personal-work-intelligence-systems-engineering-services-section` supplies the login
   adapter and tool registry.
 - **Brand.** Undecided.
 
